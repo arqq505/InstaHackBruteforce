@@ -24,7 +24,7 @@ def Input(text):
 
 #The main class
 class Instabrute():
-	def __init__(self, username, passwordsFile='8 digit numeric wordlist dari 00000000hingga  99999999 wpa_wpa2 dictionary.7z');
+	def __init__(self, username, passwordsFile='8 digit numeric wordlist dari 00000000hingga  99999999 wpa_wpa2 dictionary.7z/8Digit.lst');
 		self.username = username
 		self.CurrentProxy = ''
 		self.UsedProxys = []
